@@ -1,8 +1,8 @@
 import React from "react";
-import { EventData1 } from "./event-data";
+import RefArray from "./ref-array";
 
 export default function App() {
 
-  return <EventData1/>
+  return <RefArray/>;
 }
 
